@@ -1,2 +1,3 @@
-# erc721-gas-saving-exploration
-A look at non-OpenZeppelin ERC721 contracts
+# A look at non-OpenZeppelin ERC721 contracts
+
+by [backseats.eth](https://twitter.com/backseats_eth)
